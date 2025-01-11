@@ -139,6 +139,16 @@ nav  ul a {
     color: white;
   }
 }
+nav ul a.A {
+  text-decoration: none;
+  color: white;
+  position: absolute;
+}
+nav ul a.B {
+  text-decoration: none;
+  color: white;
+  position: absolute;
+}
 h1 {
   color: white;
   text-align: center;
@@ -183,5 +193,5 @@ position: absolute;
 top: 80px;
 flex-direction: row;
 display: inline-block;
-padding: 480px 400px;
+padding: 470px 360px;
 }
