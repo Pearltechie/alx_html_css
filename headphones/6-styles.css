@@ -1,0 +1,80 @@
+.polygon {
+    position:absolute;
+    width: 12%;
+    height: 22%;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    background-color: orangered;
+    margin-top: -400px;
+    margin-left: 200px;
+}
+p.k {
+    color: white;
+    position: absolute;
+    padding:1770px 240px;
+    font-size: 40px;
+}
+p.x {
+    color:white;
+    position: absolute;
+    padding: 1830px 240px;
+}
+.polygon-1 {
+    position:absolute;
+    width: 12%;
+    height: 22%;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    background-color: orangered;
+    margin-top: -400px;
+    margin-left: 450px;
+}
+p.p {
+    color: white;
+    position: absolute;
+    padding:1770px 490px;
+    font-size: 40px;
+}
+p.n {
+    color:white;
+    position: absolute;
+    padding: 1830px 490px;
+}
+.polygon-2 {
+    position:absolute;
+    width: 12%;
+    height: 22%;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    background-color: orangered;
+    margin-top: -400px;
+    margin-left: 700px;
+}
+p.pa {
+    color: white;
+    position: absolute;
+    padding:1770px 740px;
+    font-size: 40px;
+}
+p.na {
+    color:white;
+    position: absolute;
+    padding: 1830px 740px;
+}
+.polygon-3 {
+    position:absolute;
+    width: 12%;
+    height: 22%;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    background-color: orangered;
+    margin-top: -400px;
+    margin-left: 950px;
+}
+p.ra {
+    color: white;
+    position: absolute;
+    padding:1770px 990px;
+    font-size: 40px;
+}
+p.fa {
+    color:white;
+    position: absolute;
+    padding: 1830px 990px;
+}
