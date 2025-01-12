@@ -1,0 +1,25 @@
+h1.d {
+    color: rgb(48, 28, 28);
+    position: absolute;
+    padding: 2200px 730px;
+}
+.form-group {
+    color: rgb(48, 29, 29);
+    position: absolute;
+    padding: 150px 500px;
+}
+.form-group-1 {
+    color: rgb(48, 29, 29);
+    position: absolute;
+    padding: 200px 500px;
+}
+.form-group-2 {
+    color: rgb(48, 29, 29);
+    position: absolute;
+    padding: 250px 500px;
+}
+.cta-button {
+    color: rgb(49, 28, 28);
+    position: absolute;
+    padding: 250px 500px;
+}
